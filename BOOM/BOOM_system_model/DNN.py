@@ -9,7 +9,7 @@ class DNN():
 
         config = configparser.ConfigParser()
 
-        config_file_path = os.path.join('/content/drive/MyDrive/BOOM/config', f'{dnn_type}.ini')
+        config_file_path = os.path.join('/home/haotian/haotianproject/LLMBO/BOOM/config', f'{dnn_type}.ini')
 
         config.read(config_file_path)
 

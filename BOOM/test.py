@@ -1,9 +1,9 @@
 import itertools
 import math
 
-from BOOM_system_model.DNN import DNN
-from BOOM_system_model.UD import UD
-from BOOM_system_model.Edge_Server import Edge_Server
+from BOOM.BOOM_system_model.DNN import DNN
+from BOOM.BOOM_system_model.UD import UD
+from BOOM.BOOM_system_model.Edge_Server import Edge_Server
 
 
 antenna = 4.11
